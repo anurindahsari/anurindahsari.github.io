@@ -1,10 +1,2 @@
 User-agent: *
-Disallow: /$
-Disallow: /index.html
-Disallow: /padelday/panitia.html
-Disallow: /padelday/admin.html
-Disallow: /padelday/slides.html
-Disallow: /padelday/atur.html
-Disallow: /padelday/kehadiran.html
-Disallow: /padelday/kelola.html
-Disallow: /padelday/wasit.html
+Disallow:
